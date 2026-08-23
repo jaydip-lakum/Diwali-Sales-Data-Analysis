@@ -21,5 +21,5 @@ This project is an Exploratory Data Analysis (EDA) of a Diwali sales dataset usi
 * **Occupation & Categories:** Employees in the **IT, Healthcare, and Aviation** sectors are the top buyers.
 
 ##  Files in this Repository
-* `Diwali_Sales_Analysis.ipynb`: The main Jupyter Notebook containing the Python code, data cleaning steps, and visualizations.
+* `Diwali_Sales-Analysis.ipynb`: The main Jupyter Notebook containing the Python code, data cleaning steps, and visualizations.
 * `Diwali Sales Data.csv`: The raw dataset used for the analysis.
